@@ -53,3 +53,4 @@ DLLX1 is an internal trick designed specifically for Valorant. It bears traces o
 ## Disclaimer 
 
 This software is for educational and research purposes only. Any legal liability that may arise from the use of the software lies entirely with the user. The developer cannot be held responsible for any misuse of the software.
+ 
